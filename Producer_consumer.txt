@@ -1,4 +1,4 @@
-#First you need to go this directory in your cloudera hortonworks workspace
+#First you need to go to this directory in your cloudera hortonworks workspace
 
 
 -GO-TO-THIS-DIRECTORY ->  cd /usr/hdp/current/kafka-broker
